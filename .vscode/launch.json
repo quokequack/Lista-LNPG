@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/malui/ifal/periodo2-linguagem",
-      "program": "/Users/malui/ifal/periodo2-linguagem/build/Debug/outDebug"
+      "cwd": "/Users/malui/ifal/periodo2-linguagem/atividades",
+      "program": "/Users/malui/ifal/periodo2-linguagem/atividades/build/Debug/outDebug"
     }
   ]
 }
