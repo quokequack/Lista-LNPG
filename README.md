@@ -1,3 +1,3 @@
-### Estudos em C e Java da matéria de Linguagem de Programação
+## Estudos em C e Java
 Disciplina: Linguagem de Programação
 Professor: Ivo Calado
