@@ -3,5 +3,3 @@
 Disciplina: Linguagem de Programação </br>
 Professor: Ivo Calado
 dsdsds
-sdsdsdsdsd
-dsdsds
