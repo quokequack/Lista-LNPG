@@ -1,1 +1,4 @@
-Estudos em C e Java da matéria de Linguagem de Programação
+## Estudos em C e Java
+### Resolução básica de exercícios
+Disciplina: Linguagem de Programação </br>
+Professor: Ivo Calado
